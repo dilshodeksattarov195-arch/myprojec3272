@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorcpdate",
+        "uuid": 5218840,
+        "checksum": "yw67ck"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
